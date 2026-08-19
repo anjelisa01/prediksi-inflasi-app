@@ -2,7 +2,7 @@
 Final Year College Project, a web-based inflation prediction tool powered by Multiple Linear Regression from scratch, built to provide accessible and interactive forecasting through a simple web interface.
 
 # Overview
-This project was developed as part of my final year undergraduate coursework. The task was to make and use machine learning algorithm from scratch (without library), basically an AI development and integration project, here i use linear regression to make prediction on inflation rate based on historical economic indicators, and delivered it using Streamlit as the UI and have a database that contains the dataset and user data. The application was online in 2023 and fully accessible by everyone who has the streamlit link, currently is not online.  
+This project was developed as part of my final year undergraduate coursework. The task was to make and use machine learning algorithm from scratch (without library), basically an AI development and integration project, here i use linear regression to make prediction on inflation rate based on historical economic indicators, and delivered it using Streamlit as the UI and have a database that contains the dataset and admin data. The application was online in 2023 and fully accessible by anyone who has the streamlit link, currently is not online.  
 
 Admin can logged in to manipulate the dataset, regular user can just visit the link and perform prediction (no need to login).  
 
