@@ -16,11 +16,11 @@ This was developed in 2023 and I use no AI on development, there's a lot to impr
 - Ideal for educational use or as a lightweight forecasting tool
 
 ## Tech Stack
-Python
-Streamlit
-scikit-learn
-pandas
-MySQL
+Python  
+Streamlit  
+scikit-learn  
+pandas  
+MySQL  
 
 ## Deployment
 Note: This app was originally deployed and accessible online, but the deployment is currently offline due to hardware failure (the development laptop is no longer functional).
