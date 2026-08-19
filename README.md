@@ -25,8 +25,6 @@ MySQL
 ## Deployment
 Note: This app was originally deployed and accessible online, but the deployment is currently offline due to hardware failure (the development laptop is no longer functional).
 
-While the app is not currently online, the project can be restored or rebuilt with the existing code and database schema, provided backups are available.
-
 ## Project Status
 Currently Offline
 
