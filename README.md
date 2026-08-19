@@ -17,8 +17,7 @@ This was developed in 2023 and I use no AI on development, there's a lot to impr
 
 ## Tech Stack
 Python  
-Streamlit  
-scikit-learn  
+Streamlit    
 pandas  
 MySQL  
 
